@@ -1,0 +1,118 @@
+body {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	/*background: #666666; */
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #ffffff;
+}
+
+
+
+
+.VisualizationMainPage #mainContent {
+	/*padding: 0 20px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+	background: #000000;
+}
+
+
+
+.VisualizationMainPage #container {
+
+
+	background: #ffffff;
+	/*margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+
+
+.VisualizationMainPage #algoControlSection
+{
+	background: #000000; 
+	color:#000000; 
+    margin-left:40%;
+    margin-right:25%
+	font-weight: bold ;
+    padding : 30px 0px;
+    border-radius: 6px;
+	
+
+}
+
+/* bottom options */ 
+
+.VisualizationMainPage #generalAnimationControlSection
+{
+	background: #000000; 
+	color:#ffffff; 
+	margin-left:25%;
+    margin-right:25%
+	
+	
+
+}
+
+.VisualizationMainPage  #header { 
+	background: #000000; 
+	color:#fffefb;
+	text-align: center;
+	padding: 10px 0 ; 
+  
+} 
+ 
+.VisualizationMainPage #header  A:visited 
+	  { text-decoration:none;
+        color:#000000; 
+	   }
+	   
+	   
+.VisualizationMainPage #header h1 {
+	margin: 0; 
+	padding: 10px 0; 
+	}
+	   
+
+	
+.VisualizationMainPage #container {
+	background: #000000;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}	
+	
+	
+.VisualizationMainPage #footer  A:visited { text-decoration:none;
+        color: #ffcc33; 
+}
+
+.VisualizationMainPage #footer A:link {
+    text-decoration:none;
+	color:#ffCC33;
+}
+
+
+	
+
+.VisualizationMainPage #mainContent h1{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#006633
+}
+
+.VisualizationMainPage #mainContent h2{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#006633
+}
+
+/* bottom animation speed */
+
+.VisualizationMainPage #mainContent h3{
+	padding: 0 20px; 
+	background: #FFFFFF;
+	color:#ffffff
+}
+
+
+
+
+
